@@ -1,4 +1,4 @@
-# Proyecto Trivial
+# Trivial
 #### Proyecto desarrollado como práctica de un ciclo formativo superior de Desarrollo de Aplicaciones Multiplataforma.<br/>
 <br/>
 
